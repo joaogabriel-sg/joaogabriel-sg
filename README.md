@@ -1,4 +1,4 @@
-## 👨🏻‍💻 Hello, I'm João Gabriel!
+# 👨🏻‍💻 Hello, I'm João Gabriel!
 
 Currently, I'm a Front-End student and intend to study Software Engineering at UFC.
 
