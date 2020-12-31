@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Hello, I'm João Gabriel!
 
-Currently, I'm a Front-End student and intend to study Software Engineering at UFC.
+Currently, I'm a Front-End developer and intend to study Software Engineering at UFC.
 
 ### 🔗 My links
 
