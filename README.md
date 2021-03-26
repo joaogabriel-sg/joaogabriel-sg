@@ -32,8 +32,3 @@ Futuramente, pretendo aprender sobre Desenvolvimento Mobile com React Native �
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="30" style="max-width: 100%;" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="yarn" width="30" height="30" style="max-width: 100%;" />
 </div>  
-
-### 🏆 Algumas estatísticas  
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaogabriel-sg&count_private=true&locale=pt-br)](https://github.com/joaogabriel-sg/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabriel-sg&count_private=true&layout=compact&locale=pt-br)](https://github.com/joaogabriel-sg/github-readme-stats)
