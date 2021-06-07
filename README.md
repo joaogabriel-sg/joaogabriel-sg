@@ -1,33 +1,38 @@
-# 👨‍💻 Olá, me chamo João Gabriel!
+# 🧑🏻‍💻 Olá, eu sou João Gabriel!
 
-📚🧠 Estudante e Desenvolvedor Front-end com o princípio de evoluir pelo menos 1% diariamente e poder contribuir com quem necessitar.
+✨ Me chamo João Gabriel Silva Gomes, mas pode me chamar de João Gabriel ou JG, sou estudante de Engenharia de Software na UFC e de Desenvolvimento Front-End, buscando sempre evoluir dia após dia e assim alcançar ótimos patamares.
 
-Atualmente focado em desenvolver interfaces web, conto com o auxílio do Figma e Adobe XD para criar o wireframe, o design e a prototipação da aplicação, conhecido por muitos como UX/UI 🎨 (gosto de aprender sempre), o que ajuda bastante no processo de codificação da mesma, que ocorre no ecossistema JS 💻, em que conto com HTML, CSS, JavaScript e React.js para dar vida à interface. Além disso, utilizo ferramentas como o Git para versionar o código e tornar possível a navegação pela linha do tempo dele e o GitHub para hospedar meus projetos publicamente.
+### 🏁 Meus desafios diários
 
-Futuramente, pretendo aprender sobre Desenvolvimento Mobile com React Native 📱, pois é uma área que me interesso e poderei aproveitar diversos pontos do React e de questões UX/IX, além de poder integrar melhor meus projetos e ajudar na empresa em que eu esteja trabalhando.
+- Acordar cedo para aproveitar melhor o dia.
+- Praticar meus estudos com projetos e exercícios todo dia.
+- Manter uma rotina saudável.
+- Praticar atividades físicas.
 
- Achou interessante? 🤔  
- Então vamos nos seguir e acompanhar os projetos um do outro. 😃
+### 💻 Tecnologias que uso/estudo
+
+Diariamente utilizo essas tecnologias para desenvolver meus projetos e fazer exercícios.
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
-### 🔗 Conecte-se comigo  
+### 📚 Tecnologias que pretendo estudar
 
-<a href="https://www.linkedin.com/in/joaogabriel-sg/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="joao-gabriel-linkedin" width="40" height="30" style="max-width: 100%">
-</a>
-<a href="https://www.facebook.com/gabrielsg01/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="joao-gabriel-facebook" width="40" height="30" style="max-width: 100%">
-</a>
+Pretendo estudar essas tecnologias com o tempo e estou aberto a estudos de tecnologias da empresa que eu esteja trabalhando.
 
-### 🚀 Minhas habilidades  
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-<div>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="30" style="max-width: 100%;" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="30" style="max-width: 100%;" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="30" style="max-width: 100%;" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="30" style="max-width: 100%;" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="30" style="max-width: 100%;" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="30" style="max-width: 100%;" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="30" style="max-width: 100%;" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="yarn" width="30" height="30" style="max-width: 100%;" />
-</div>  
+### 🤳🏻 Meus contatos
+
+Podemos entrar em contato e conversarmos sobre qualquer assunto e fazer/manter um bom network.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/joaogabriel-sg/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaogabrielsg.00@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaogabrielsg_/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/joaogabrielsg)
